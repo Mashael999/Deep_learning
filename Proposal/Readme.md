@@ -1,7 +1,7 @@
 # Instagram pages interest. 
 
 
-<p align="center" width="100%">
+<p align="center" width="25%">
 <img src="https://defendingdigital.com/wp-content/uploads/2019/03/instagram-logo.png" />
 </p>
 
