@@ -8,7 +8,6 @@ This project is done during SDAIA Academy bootcamp of Data Science and AI.
 
 # About the repository:
 - [Project Proposal](https://github.com/Mashael999/Deep_learning/tree/main/Proposal)
-- [Dataset]()
 - [Project MVP]()
 - [Jupyter Notebooks]()
 - [Slides Presentation]()
