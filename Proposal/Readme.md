@@ -30,4 +30,4 @@ The used dataset downloaded from [Kaggle](https://www.kaggle.com/bahramjannesarr
 - OS
 - Keras
 - Sklearn
-- TensorFlow
+
