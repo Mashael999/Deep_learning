@@ -13,7 +13,7 @@ The goal of this project is to build a deep neural network model that uses scree
 
 
 ## Data Description
-The used dataset downloaded from [Kaggle](https://www.kaggle.com/bahramjannesarr/instagram-page-screen-shots-in-5-category). which contains 3770 images into 5 folders labeled as to which class they belong to. 
+The used dataset downloaded from [Kaggle](https://www.kaggle.com/bahramjannesarr/instagram-page-screen-shots-in-5-category) which contains 3770 images into 5 folders labeled as to which class they belong to. 
 ##### The 5 classes are:
 - Beauty
 - Family
