@@ -1,4 +1,5 @@
-# Deep Learning Project : Instagram pages interest.
+# Deep Learning Project : Instagram pages according to interest.
+
 This project is done during SDAIA Academy bootcamp of Data Science and AI.
 
 <p align="center" width="100%">
