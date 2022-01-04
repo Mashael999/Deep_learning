@@ -9,7 +9,7 @@
 Instagram is a social networking service that allows people to share their interests and life by posting photos and videos online. 
 Knowing the interest of Instagram pages can be detected by the first 15 posts on that page at most.
 
-The goal of this project is to build a deep neural network model that uses screenshots of 15 posts on an Instagram page as one image to identify the interest of that page.
+The goal of this project is to build a deep neural network model that uses screenshots of several posts on an Instagram page as one image to identify the interest of that page.
 
 
 ## Data Description
