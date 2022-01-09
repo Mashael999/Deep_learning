@@ -3,7 +3,7 @@
 In this project we extract the dataset from [Kaggel](https://www.kaggle.com/bahramjannesarr/instagram-page-screen-shots-in-5-category) which is a dataset containing over 3770 screenshots images into 5 categories to build a deep neural network model that uses screenshots of several posts on an Instagram page as one image to identify the interest of that page.
 ## Workflow
 ### EDA:
-- Sample of Dataset after we uploading it.
+- Sample of Dataset after uploading it.
 
 <p align="" width="25%">
 <img src="https://user-images.githubusercontent.com/93087607/148681445-abf2776d-fd76-4a03-82e2-7f578f87f2ec.png" />
