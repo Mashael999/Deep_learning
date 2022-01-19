@@ -25,7 +25,6 @@ The used dataset downloaded from [Kaggle](https://www.kaggle.com/bahramjannesarr
 ## Tools
 - Numpy
 - Pandas
-- Seaborn
 - Matplotlib
 - OS
 - Keras
