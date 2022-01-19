@@ -1,4 +1,4 @@
-# Deep Learning Project : Instagram pages according to interest.
+# Deep Learning Project : Instagram profile classification
 
 This project is done during SDAIA Academy bootcamp of Data Science and AI.
 
