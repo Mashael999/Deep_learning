@@ -10,7 +10,7 @@ This project is done during SDAIA Academy bootcamp of Data Science and AI.
 # About the repository:
 - [Project Proposal](https://github.com/Mashael999/Instagram-Profile-Deep-Learning-Project/tree/main/Proposal)
 - [Project MVP](https://github.com/Mashael999/Instagram-Profile-Deep-Learning-Project/tree/main/MVP)
-- [Jupyter Notebooks]()
+- [Jupyter Notebooks](https://github.com/Mashael999/Instagram-Profile-Deep-Learning-Project/blob/main/Code/Deep%20learning%20project.ipynb)
 - [Slides Presentation](https://github.com/Mashael999/Instagram-Profile-Deep-Learning-Project/blob/main/Presentation/Instagram%20profile%20classification%20slides.pdf)
 - [Report](https://github.com/Mashael999/Instagram-Profile-Deep-Learning-Project/tree/main/Report)
 
