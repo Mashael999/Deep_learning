@@ -19,10 +19,25 @@ The used dataset downloaded from [Kaggle](https://www.kaggle.com/bahramjannesarr
   - Rotation (90)
   - Shifting 
 - Split Dataset 
+  - Training=  80%, 3053 images
+  - Validation= 10%, 340 images
+  - test= 10%, 377 images
 
 
 #### Natural Langauge Processing
 Several models with multiple experiment were tried and played with to get the best model that goes hand in hand with the dataset. After performing simple train and validation on the  models one was chosen for further investigation. Models trained was:
+The classification algorithm that has been used in this project:
+
+- Logistic Regression
+- Natural networks
+- CNN
+- Transfer Learning
+  -  VGG16
+  -  VGG19
+  -  MobileNet
+  -  EfficientNetB2
+ 
+Best Algorithm that made gave the best results is MobileNet with one Conve2D layers and 3 Dense layers with Droupout 0.25.
 
 
 
